@@ -84,7 +84,7 @@ async def start_(client: Client, message: Message):
                         "‹ كروب الدعم › ", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "‹ لتنصيب بوت ›", url=f"https://t.me/EITHON1/819"
+                        "‹ لتنصيب بوت ›", url=f"https://t.me/mzxfweg/18"
                     ),
                 ],
                 [
@@ -101,16 +101,16 @@ async def start_(client: Client, message: Message):
 @Client.on_message(command(["مبرمج السورس", f"ؤمن", f"ورس", f"السورس"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/8efbe93b81985bb648d95.jpg",
-        caption=f"""Programmer [EITHON](https://t.me/EITHON1) 𖡼\nᴛᴏ ᴄᴏᴍᴍụɴɪᴄᴀᴛᴇ ᴛᴏɢᴇᴛʜᴇʀ 𖡼\nғᴏʟʟᴏᴡ ᴛʜᴇ ʙụᴛᴛᴏɴѕ ʟᴏᴡᴇʀ 𖡼""",
+        photo=f"https://telegra.ph/file/bd9a2c9e3ea24babf08e2.jpg",
+        caption=f"""Programmer [mzxfweg](https://t.me/mzxfweg) 𖡼\nᴛᴏ ᴄᴏᴍᴍụɴɪᴄᴀᴛᴇ ᴛᴏɢᴇᴛʜᴇʀ 𖡼\nғᴏʟʟᴏᴡ ᴛʜᴇ ʙụᴛᴛᴏɴѕ ʟᴏᴡᴇʀ 𖡼""",
         reply_markup=InlineKeyboardMarkup(
          [
             [
-                InlineKeyboardButton("℡ ᯓ Ξ𝗜𝗧𝗛𝗢𝗡™ ايثون", url=f"https://t.me/EITHON1"),
+                InlineKeyboardButton("ﺳِـَـَِـَِـَـَِورـَسٰۧس ﻟﹻۧۦ. ﹻۧﺴﹻۧۦﹻۧﻠﹻۧۦﹻۧﻂﹻۧۦﹻۧﺂﺂن", url=f"https://t.me/mzxfweg"),
             ],
             [
                 InlineKeyboardButton(
-                    "-محمد .", url=f"https://t.me/M_Z_Z_N"
+                    "سلطان .", url=f"https://t.me/M_O_D_E_1_9_2_5"
                 ),
             ],
             [
@@ -128,7 +128,7 @@ async def help(client: Client, message: Message):
         reply_markup=InlineKeyboardMarkup(
          [
             [
-                InlineKeyboardButton("𓌹℡ ᯓ Ξ𝗜𝗧𝗛𝗢𝗡™ ايثون", url=f"https://t.me/EITHON1"),
+                InlineKeyboardButton("ﺳِـَـَِـَِـَـَِورـَسٰۧس ﻟﹻۧۦ. ﹻۧﺴﹻۧۦﹻۧﻠﹻۧۦﹻۧﻂﹻۧۦﹻۧﺂﺂن", url=f"https://t.me/mzxfweg"),
             ],
             [
                 InlineKeyboardButton(
